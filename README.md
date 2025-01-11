@@ -1,1 +1,1 @@
-# This is Student Registration System using DOM
+# Student Registration System using DOM
